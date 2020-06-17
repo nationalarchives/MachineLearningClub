@@ -11,4 +11,4 @@ Tutorials are sometimes incremental so should be completed in the following orde
 Session 1 - Data analysis and cleansing
 - Zoo analysis
 - Census analysis
-- Amazon reviews analysis
+- Amazon reviews analysis (the dataset for this tutorial is zipped in this repository and will need to be unzipped in the same data folder before running the tutorial).
